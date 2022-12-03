@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <version title="1.0.1" />
-    <item text="(1） 适配了Color OS 、 Samsung系统应用." />
-    <item text="(2)  更改了反馈邮箱." />
-    <item text="(3)  替换了Flyme 系统App 时钟" />
-    <item text="(4)  修复 百度网盘、AcFun、即刻、薄荷健康 未适配成功问题" /> 
-    <item text="(5)  修复drawable方面问题"/>
-    
+    <version title="1.0.2" />
+    <item text="(1） 尝试修复One Plus、OPPO、realme日历📆问题." />
+    <item text="(2)  尝试修复部分应用未适配成功的问题." />
+    <item text="(3)  适配一部分图标(约20多个)(Thanox、M_browser、Aide、Google_calendar等)." />
+    <item text="(4)  修复Coolapk用户反馈的部分问题." /> 
+    <item text="(5)  修复Google日历未适配成功问题."/>
+    <item text="适配量:600+ (应该算是个惊喜吧!)"/>
     <!-- this one is empty and therefore ignored -->
 </resources>

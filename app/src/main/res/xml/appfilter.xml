@@ -1675,7 +1675,7 @@
         component="ComponentInfo{com.jd.jxj/com.jd.jxj.ui.activity.LoadingActivity}" 
         drawable="jingfen"/>
         
-              <!-- 驾校一点通 -->
+            <!-- 驾校一点通 -->
     <item 
         component="ComponentInfo{com.jxedt/com.jxedt.ui.activitys.GuideActivity}"
         drawable="jxedt" />
@@ -1723,8 +1723,8 @@
         component="ComponentInfo{com.mercury.cloudrouter/com.tplink.mf.ui.base.InitAppActivity}" 
         drawable="mercury_router" />
         
-        
-          <!-- tachiyomi -->
+           
+        <!-- tachiyomi -->
     <item 
         component="ComponentInfo{eu.kanade.tachiyomi/eu.kanade.tachiyomi.ui.main.MainActivity}" 
         drawable="tachiyomi" />
@@ -1830,40 +1830,57 @@
         component="ComponentInfo{com.bluros.camera/com.android.camera.CameraLauncher}" 
         drawable="camera_2" />
     <item 
-        component="ComponentInfo{com.evenwell.camera2/com.android.camera.CameraLauncher}" drawable="camera_2" />
+        component="ComponentInfo{com.evenwell.camera2/com.android.camera.CameraLauncher}" 
+        drawable="camera_2" />
     <item 
-        component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}" drawable="google_camera" />
+        component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}"
+        drawable="google_camera" />
 
     <item 
-        component="ComponentInfo{com.htc.camera2/com.htc.camera2.CameraEntry}" drawable="camera_2" />
+        component="ComponentInfo{com.htc.camera2/com.htc.camera2.CameraEntry}" 
+        drawable="camera_2" />
     <item 
-        component="ComponentInfo{com.huawei.camera/com.huawei.camera}" drawable="camera_2" />
+        component="ComponentInfo{com.huawei.camera/com.huawei.camera}" 
+        drawable="camera_2" />
     <item 
-        component="ComponentInfo{com.lenovo.scg/com.lenovo.scg.camera.CameraLauncher}" drawable="camera_2" />
+        component="ComponentInfo{com.lenovo.scg/com.lenovo.scg.camera.CameraLauncher}" 
+        drawable="camera_2" />
     <item 
-        component="ComponentInfo{com.lge.camera/com.lge.camera.CameraAppLauncher}" drawable="camera_2" />
+        component="ComponentInfo{com.lge.camera/com.lge.camera.CameraAppLauncher}" 
+        drawable="camera_2" />
     <item 
-        component="ComponentInfo{com.meizu.media.camera/com.meizu.media.camera.CameraLauncher}" drawable="camera_2" />
+        component="ComponentInfo{com.meizu.media.camera/com.meizu.media.camera.CameraLauncher}"
+        drawable="camera_2" />
     <item 
-        component="ComponentInfo{com.motorola.cameraone/com.motorola.camera.Camera}" drawable="camera_2" />
+        component="ComponentInfo{com.motorola.cameraone/com.motorola.camera.Camera}" 
+        drawable="camera_2" />
     <item 
-        component="ComponentInfo{com.oneplus.camera/com.oneplus.camera.OPCameraActivity}" drawable="camera_2" />
+        component="ComponentInfo{com.oneplus.camera/com.oneplus.camera.OPCameraActivity}"
+        drawable="camera_2" />
     <item 
-        component="ComponentInfo{com.oppo.camera/com.oppo.camera.Camera}" drawable="camera_2" />
+        component="ComponentInfo{com.oppo.camera/com.oppo.camera.Camera}" 
+        drawable="camera_2" />
     <item 
-        component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" drawable="camera_2" />
+        component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" 
+        drawable="camera_2" />
     <item 
-        component="ComponentInfo{com.sonyericsson.android.camera/com.sonyericsson.android.camera.CameraActivity}" drawable="camera_2" />
+        component="ComponentInfo{com.sonyericsson.android.camera/com.sonyericsson.android.camera.CameraActivity}"
+        drawable="camera_2" />
     <item 
-        component="ComponentInfo{com.zte.camera/com.zte.camera.CameraActivity}" drawable="camera_2" />
+        component="ComponentInfo{com.zte.camera/com.zte.camera.CameraActivity}"
+        drawable="camera_2" />
     <item 
-        component="ComponentInfo{com.zui.cameragallery/com.zui.cameragallery.camera.CameraActivity}" drawable="camera_2" />
+        component="ComponentInfo{com.zui.cameragallery/com.zui.cameragallery.camera.CameraActivity}"
+        drawable="camera_2" />
     <item 
-        component="ComponentInfo{org.codeaurora.snapcam/com.android.camera.CameraLauncher}" drawable="camera_2" />
+        component="ComponentInfo{org.codeaurora.snapcam/com.android.camera.CameraLauncher}"
+        drawable="camera_2" />
     <item 
-        component="ComponentInfo{org.cyanogenmod.snap/com.android.camera.CameraLauncher}" drawable="camera_2" />
+        component="ComponentInfo{org.cyanogenmod.snap/com.android.camera.CameraLauncher}" 
+        drawable="camera_2" />
     <item 
-        component="ComponentInfo{com.android.gallery3d/com.android.camera.CameraLauncher}" drawable="camera_2" />
+        component="ComponentInfo{com.android.gallery3d/com.android.camera.CameraLauncher}" 
+        drawable="camera_2" />
     <!-- 相机 / Camera -->
     <item 
         component="ComponentInfo{com.motorola.camera/com.motorola.camera.Camera}" 
@@ -2047,7 +2064,7 @@
     <!-- PP体育 / PP体育 -->
     <item 
         component="ComponentInfo{com.pplive.androidphone.sport/com.pplive.androidphone.sport.ui.AuthorityActivity}"
-        drawable="pp_sport" />
+        drawable="pplive" />
     <!-- Eudic / Eudic -->
     <item 
         component="ComponentInfo{com.qianyan.eudic/com.eusoft.dict.activity.SplashActivity}" 
@@ -2104,7 +2121,7 @@
         component="ComponentInfo{com.taobao.trip/com.alipay.mobile.quinox.LauncherActivity}" 
         drawable="flypig" />
         
-          <!-- 中国移动江苏 -->
+        <!-- 中国移动江苏 -->
 	<item
 		component="ComponentInfo{com.jsmcc/com.jsmcc.ui.WelcomeActivity}"
 		drawable="cmcc"/>
@@ -2132,8 +2149,176 @@
 	<item
 		component="ComponentInfo{com.boohee.one/com.boohee.one.app.home.ui.activity.SplashActivity}"
 		drawable="boohee"/>
-   
+        
+        <!-- 腾讯视频 -->
+	<item
+		component="ComponentInfo{com.tencent.qqlive/com.tencent.qqlive.ona.activity.SplashHomeActivity}"
+		drawable="qq_live"/>
+        <!-- Clash For Android -->
+	<item
+		component="ComponentInfo{com.github.kr328.clash.foss/com.github.kr328.clash.MainActivity}"
+		drawable="clash"/>
+        <!-- Soul -->
+	<item
+		component="ComponentInfo{cn.soulapp.android/cn.soulapp.android.component.startup.main.MainActivity}"
+		drawable="soul"/>
+        <!-- Speedtest -->
+	<item
+		component="ComponentInfo{org.zwanoo.android.speedtest/com.ookla.mobile4.screens.main.MainActivity}"
+		drawable="speedtest"/>
+        <!-- Steam -->
+	<item
+		component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.MainActivity}"
+		drawable="steam"/>
+        <!-- Via -->
+	<item
+		component="ComponentInfo{mark.via.gp/mark.via.Shell}"
+		drawable="via"/>
+        <!-- 掌上穿越火线 -->
+	<item
+		component="ComponentInfo{com.tencent.qt.sns/com.tencent.gamehelper.ui.main.WelcomeActivity}"
+		drawable="qt_sns"/>
+        <!-- 斗鱼 -->
+	<item
+		component="ComponentInfo{air.tv.douyu.android/tv.douyu.view.activity.launcher.DYSplashLauncherActivity}"
+		drawable="douyu_tv"/>
+        <!-- 美的美居 -->
+	<item
+		component="ComponentInfo{com.midea.ai.appliances/com.midea.meiju.welcome.WelcomeActivityMeiJu}"
+		drawable="meide_jiaju"/>
+        <!-- 阿里云盘 -->
+	<item
+		component="ComponentInfo{com.alicloud.databox/com.alicloud.databox.launcher.splash.SplashActivity}"
+		drawable="alicloud"/>
+        <!-- 高级调节 -->
+	<item
+		component="ComponentInfo{com.abc.refreshadjust/com.abc.refreshadjust.MainActivity}"
+		drawable="gaoji_tiaojie"/>
+        
+        <!-- 美剧星球 -->
+	<item
+		component="ComponentInfo{com.mjxq.app/com.mjxq.app.ui.activity.LaunchActivity}"
+		drawable="mjxq"/>
+        <!-- 航旅纵横 -->
+	<item
+		component="ComponentInfo{com.umetrip.android.msky.app/com.umetrip.android.msky.app.module.startup.SplashActivity}"
+		drawable="hlzh"/>
+        <!-- 百度网盘 -->
+	<item
+		component="ComponentInfo{com.baidu.netdisk.samsung/com.baidu.netdisk.ui.DefaultMainActivity}"
+		drawable="baidu_netdisk"/>
+        <!-- 百度CarLife -->
+	<item
+		component="ComponentInfo{com.baidu.carlife/com.baidu.mix.samsung.ui.MixMaskActivity}"
+		drawable="baidu_carlife"/>
+        <!-- 滴滴出行 -->
+	<item
+		component="ComponentInfo{com.sdu.didi.psnger/com.didi.sdk.app.launch.splash.SplashActivity}"
+		drawable="didi"/>
+        <!-- 晋江小说阅读 -->
+	<item
+		component="ComponentInfo{com.jjwxc.reader/com.example.jinjiangshucheng.AppPrivacyActivity}"
+		drawable="jjwxc"/>
+        <!-- 携程旅行 -->
+	<item
+		component="ComponentInfo{ctrip.android.view/ctrip.business.splash.CtripSplashActivity}"
+		drawable="xclx"/>
+        <!-- 搜狗输入法 -->
+	<item
+		component="ComponentInfo{com.sohu.inputmethod.sogou/com.sohu.inputmethod.sogou.SogouIMELauncher}"
+		drawable="sogou_inputmethod"/>
+        <!-- 同程旅行 -->
+	<item
+		component="ComponentInfo{com.tongcheng.android/com.tongcheng.android.LoadingActivity}"
+		drawable="tclx"/>
+        <!-- 去哪儿旅行 -->
+	<item
+		component="ComponentInfo{com.Qunar/com.mqunar.splash.SplashActivity}"
+		drawable="qunar"/>
+        <!-- 交管12123 -->
+	<item
+		component="ComponentInfo{com.tmri.app.main/com.tmri.app.ui.activity.main.TmriNewActivity}"
+		drawable="jiaoguan"/>
+        <!-- Ximalaya -->
+	<item
+		component="ComponentInfo{com.ximalaya.ting.android/com.ximalaya.ting.android.host.activity.MainActivity}"
+		drawable="ximalaya"/>
+        <!-- VSCO -->
+	<item
+		component="ComponentInfo{com.vsco.cam/com.vsco.cam.navigation.LithiumActivity}"
+		drawable="vsco"/>
+        <!-- QQ音乐简洁版 -->
+	<item
+		component="ComponentInfo{com.tencent.qqmusiclite/com.tencent.qqmusiclite.SplashActivity}"
+		drawable="qq_music_lite"/>
+        <!-- Ele Me -->
+	<item
+		component="ComponentInfo{me.ele/me.ele.Launcher}"
+		drawable="ele_me"/>
+        
+        <!-- 小米金融 / 小米金融 -->
+    <item 
+        component="ComponentInfo{com.xiaomi.jr/com.xiaomi.jr.CTAActivity}" 
+        drawable="mi_jr" /> 
+    <item 
+        component="ComponentInfo{com.xiaomi.jr/com.xiaomi.jr.SplashActivity}" 
+        drawable="mi_jr" />
+        
+        <!-- 小爱音箱 -->
+    <item 
+        component="ComponentInfo{com.xiaomi.mico/com.xiaomi.mico.splash.SplashActivity}" 
+        drawable="mi_mico" />
+    <item 
+        component="ComponentInfo{com.xiaomi.mico/com.xiaomi.mico.splash.SplashActivity}"
+        drawable="mi_mico" />
+        
+        <!-- 小米WiFi / Mi Wi-Fi -->
+    <item 
+        component="ComponentInfo{com.xiaomi.router/com.xiaomi.router.module.splash.SplashActivity}" 
+        drawable="mi_wifi" />
+        
+        <!-- MX Player -->
+	<item
+		component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityWelcomeMX}"
+		drawable="mxplayer"/>
+        
+    	<!-- 电信营业厅 -->
+	<item
+		component="ComponentInfo{com.ct.client/com.ct.client.activity.SplashActivity}"
+		drawable="ct"/>
+        
+        <!-- Power Clean -->
+	<item
+		component="ComponentInfo{com.lionmobi.powerclean/com.lionmobi.powerclean.activity.SplashActivity}"
+		drawable="power_clean"/>
+        
+        <!-- Thanox -->
+	<item
+		component="ComponentInfo{github.tornaco.android.thanos/github.tornaco.android.thanos.main.NavActivity}"
+		drawable="thanox"/>
+        
+        <!-- M浏览器 -->
+	<item
+		component="ComponentInfo{cn.nr19.mbrowser/cn.mbrowser.activity.BrowserActivity}"
+		drawable="m_browser"/>
+        
+        <!-- AIDE -->
+	<item
+		component="ComponentInfo{com.aide.ui/com.s1243808733.aide.application.activity.NoDisplayActivity}"
+		drawable="aide"/>
+        
+    	<!-- 应急食品 -->
+	<item
+		component="ComponentInfo{com.mukapp.genshintool/com.androlua.Welcome}"
+		drawable="yjsp"/>
+        
+        
 
+        
+
+    
+         
+        
        
          
         
@@ -2190,10 +2375,32 @@
         component="ComponentInfo{com.hypergryph.arknights/com.u8.sdk.U8UnityContext}" 
         drawable="game_arknights" />
         
-           <!-- 英雄联盟手游 -->
+        <!-- 英雄联盟手游 -->
 	<item
 		component="ComponentInfo{com.tencent.lolm/com.tencent.lolm.lgame}"
 		drawable="lolm"/>
+        
+        <!-- QQ飞车 -->
+	<item
+		component="ComponentInfo{com.tencent.tmgp.speedmobile/com.tencent.gcloud.msdk.core.policy.MSDKPolicyActivity}"
+		drawable="qq_che"/>
+        
+        <!-- 云 原神 -->
+	<item
+		component="ComponentInfo{com.miHoYo.cloudgames.ys/com.mihoyo.cloudgame.ui.SplashActivity}"
+		drawable="genshin"/>
+
+	    <!-- 和平精英 -->
+	<item
+		component="ComponentInfo{com.tencent.tmgp.pubgmhd/com.epicgames.ue4.SplashActivity}"
+		drawable="pubg_mhd"/>
+        
+        <!-- 穿越火线 枪战王者 -->
+	<item
+		component="ComponentInfo{com.tencent.tmgp.cf/com.tencent.tmgp.cf.AFMainActivity}"
+		drawable="cfm"/>
+        
+        
         
         
         
@@ -2449,6 +2656,10 @@
 	<item
 		component="ComponentInfo{com.flyme.meizu.store/com.meizu.store.newhome.NewHomeActivity}"
 		drawable="meizu_store"/>
+        <!-- 魅族社区 -->
+	<item
+		component="ComponentInfo{com.meizu.flyme.flymebbs/com.meizu.myplus.ui.splash.SplashActivity}"
+		drawable="flymebbs"/>
         
         
         
@@ -2467,87 +2678,44 @@
 		  component="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}"
 		  prefix="calendar_d"/>
           
-           <!-- AOSP Google Calendar -->
+        <!-- AOSP Google Calendar -->
       <calendar
 		component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
 		prefix="calendar_d"/>
         
+        <!-- Color Calendar -->
+      <calendar
+		component="ComponentInfo{com.coloros.calendar/com.android.calendar.AllInOneActivity}"
+		prefix="calendar_d"/>
+        
+        <!-- sec Calendar -->
+  	<calendar
+		component="ComponentInfo{com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity}"
+		prefix="calendar_d"/>
+        
+	  
+        
+        
      <!-- ==============Calendar=================================================== -->
 
-          
-          
-    <item
-         component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" 
-         drawable="calendar" />
-    <item
-         component="ComponentInfo{am.sunrise.android.calendar/am.sunrise.android.calendar.ui.HomeActivity}" 
-         drawable="calendar" />
-    <item
-         component="ComponentInfo{com.android.calendar/com.meizu.flyme.calendar.AllInOneActivity}" 
-         drawable="calendar" />
-    <item
-         component="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}" 
-         drawable="calendar" />
-    <item
-         component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" 
-         drawable="calendar" />
-    <item
-         component="ComponentInfo{com.google.android.calendar/com.android.calendar.LaunchActivity}" 
-         drawable="google_calendar" />
-    <item
-         component="ComponentInfo{com.google.android.calendar/com.android.calendar.HtcCalendarProvider}" 
-         drawable="google_calendar" />
-    <item
-         component="ComponentInfo{com.android.calendar/com.android.calendar.CalendarTabActivity}" 
-         drawable="calendar" />
-    <item
-         component="ComponentInfo{com.android.calendar/com.android.calendar.MonthActivity}" 
-         drawable="calendar" />
-    <item
-         component="ComponentInfo{com.android.calendar/com.android.calendar.LaunchActivity}" 
-         drawable="calendar" />
-    <item
-         component="ComponentInfo{com.android.calendar/com.android.calendar.AgendaActivity}" 
-         drawable="calendar" />
-    <item
-         component="ComponentInfo{com.android.calendar/com.android.calendar.EventInfoActivity}" 
-         drawable="calendar" />
-    <item
-         component="ComponentInfo{com.android.calendar/com.android.calendar.EditEventActivity}" 
-         drawable="calendar" />
-    <item
-         component="ComponentInfo{com.android.calendar/com.android.calendar.timeline.EventListWithStartTime}" 
-         drawable="calendar" />
-    <item
-         component="ComponentInfo{com.android.calendar/com.android.calendar.ChooserActivity}" 
-         drawable="calendar" />
-    <item
-         component="ComponentInfo{com.android.calendar/com.android.calendar.LaunchTasksActivity}" 
-         drawable="calendar" />
-    <item
-         component="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarActivityMain}" 
-         drawable="calendar" />
-    <item
-         component="ComponentInfo{com.lenovo.android.calendar/com.lenovo.android.calendar.SplashActivity}" 
-         drawable="calendar" />
-    <item
-         component="ComponentInfo{com.sonymobile.calendar/com.sonymobile.calendar.LaunchActivity}" 
-         drawable="calendar" />
-    <item
-         component="ComponentInfo{cn.nubia.calendar.preset/cn.nubia.calendar.AllInOneActivity}" 
-         drawable="calendar" />
-    <item
-         component="ComponentInfo{com.bbk.calendar/com.bbk.calendar.MainActivity}" 
-         drawable="calendar" />
-    <item
-         component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}" 
-         drawable="calendar" />
-    <item
-         component="ComponentInfo{com.zui.calendar/com.zui.calendar.MainActivity}" 
-         drawable="calendar" />
-    <item
-         component="ComponentInfo{com.blackberry.calendar/com.blackberry.calendar.AllInOneActivity}" 
-         drawable="calendar" />
+        <!-- Concise Calendar -->
+	<item
+		component="ComponentInfo{com.concise.mycalendar/com.concise.mycalendar.activity.CalendarMainActivity}"
+		drawable="calendar"/>
+        
+     	<!-- Concise Calendar -->
+	<item
+		component="ComponentInfo{com.concise.mycalendar/com.concise.mycalendar.activity.CalendarMainActivity}"
+		drawable="concise_calendar"/>
+        
+     	<!-- Calendar -->
+	<item
+		component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
+		drawable="google_calendar"/>
+        
+    
+
+
         
         
         <!-- ==============AOSP Google Android=================================================== -->
@@ -2617,9 +2785,7 @@
 		component="ComponentInfo{com.android.settings/com.android.settings.Settings}"
 		drawable="flyme_settings"/>
         
-        
-        
-       <!-- Camera -->
+           <!-- Camera -->
 	<item
 		component="ComponentInfo{app.grapheneos.camera/app.grapheneos.camera.ui.activities.MainActivity}"
 		drawable="camera"/>
@@ -2645,7 +2811,6 @@
 		drawable="game_space"/>
 
 	<!-- Messaging -->
-    
 	<item
 		component="ComponentInfo{com.android.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity}"
 		drawable="flyme_messages"/>
@@ -2655,14 +2820,15 @@
 		component="ComponentInfo{com.android.dialer/com.android.dialer.main.impl.MainActivity}"
 		drawable="google_phone"/>
         
-     <!-- FM Radio -->
+    <!-- FM Radio -->
 	<item
 		component="ComponentInfo{com.android.fmradio/com.android.fmradio.FmMainActivity}"
 		drawable="miui_fm"/>
         
         
         
-           <!-- ==============One Plus、Color=================================================== -->
+        
+        <!-- ==============One Plus、Color=================================================== -->
         
         
         
@@ -2782,7 +2948,7 @@
 		component="ComponentInfo{com.oneplus.brickmode/com.oneplus.brickmode.activity.MainControlActivity}"
 		drawable="zen_mode"/>
 
-	<!-- 一加社区 -->
+    	<!-- 一加社区 -->
 	<item
 		component="ComponentInfo{com.oneplus.bbs/com.oneplus.bbs.ui.activity.WelcomeActivity}"
 		drawable="oneplus_bbs"/>
@@ -2792,18 +2958,19 @@
 		component="ComponentInfo{com.heytap.reader/com.chaozh.iReader.ui.activity.WelcomeActivity}"
 		drawable="color_read"/>
 
-	<!-- 音乐 -->
+    	<!-- 音乐 -->
 	<item
 		component="ComponentInfo{com.heytap.music/com.allsaints.music.ui.splash.SplashActivity}"
 		drawable="color_music"/>
         
+     	<!-- Calendar -->
+	<item
+		component="ComponentInfo{com.coloros.calendar/com.android.calendar.AllInOneActivity}"
+		drawable="calendar"/>
         
         
         
-        
-        
-        
-         <!-- ============== samsung =================================================== -->
+       <!-- ============== samsung =================================================== -->
         
         <!-- Contacts -->
 	<item
@@ -2818,7 +2985,7 @@
         <!-- Finder -->
 	<item
 		component="ComponentInfo{com.samsung.android.app.galaxyfinder/com.samsung.android.app.galaxyfinder.GalaxyFinderMainLauncher}"
-		drawable="finder"/>
+		drawable="sec_finder"/>
 
 	<!-- Galaxy Store -->
 	<item
@@ -2929,6 +3096,67 @@
 	<item
 		component="ComponentInfo{com.sec.android.daemonapp/com.samsung.android.weather.app.AppLauncherActivity}"
 		drawable="sec_weather"/>
+        
+        <!-- Messages -->
+	<item
+		component="ComponentInfo{com.samsung.android.messaging/com.android.mms.ui.ConversationComposer}"
+		drawable="sec_messages"/>
+        
+        <!-- Calculator -->
+	<item
+		component="ComponentInfo{com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator}"
+		drawable="calculator_through"/>
+        
+        <!-- Mono -->
+	<item
+		component="ComponentInfo{fonts.mono.oneui_2_0/fonts.mono.oneui_2_0.MonoInstallerActivity}"
+		drawable="mono"/>
+        
+        <!-- Game Launcher -->
+	<item
+		component="ComponentInfo{com.samsung.android.game.gamehome/com.samsung.android.game.gamehome.activity.StartActivityCN}"
+		drawable="game_launcher"/>
+        
+        <!-- Video -->
+	<item
+		component="ComponentInfo{com.samsung.android.videolist/com.samsung.android.videolist.list.activity.VideoList}"
+		drawable="videos"/>
+        
+        <!-- Smart Manager -->
+	<item
+		component="ComponentInfo{com.samsung.android.sm_cn/com.samsung.android.sm.ui.cstyleboard.SmartManagerDashBoardActivity}"
+		drawable="phone_manager"/>
+        
+        <!-- Search -->
+	<item
+		component="ComponentInfo{com.samsung.android.app.searchwidget/com.samsung.android.app.searchwidget.ui.FeedsActivity}"
+		drawable="sec_finder"/>
+        
+        <!-- Secure Folder -->
+	<item
+		component="ComponentInfo{com.samsung.knox.securefolder/com.samsung.knox.securefolder.presentation.switcher.view.SecureFolderShortcutActivity}"
+		drawable="secure_folder"/>
+        
+        <!-- AR Zone -->
+	<item
+		component="ComponentInfo{com.samsung.android.arzone/com.samsung.android.arzone.ARZoneLauncher}"
+		drawable="ar_zone"/>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <!-- Google Camera -->
+	<item
+		component="ComponentInfo{com.samsung.android.ruler/com.android.camera.CameraLauncher}"
+		drawable="google_camera"/>
         
         
         

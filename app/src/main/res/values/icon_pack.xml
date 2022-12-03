@@ -25,6 +25,7 @@
         <item>miui_contacts_and_dialer</item>
         <item>flyme_messages</item>
         <item>flyme_settings</item>
+        <item>google_camera</item>
         
         <item>genshin1</item>
         
@@ -44,6 +45,7 @@
         <item>flyme</item>
         <item>miui</item>
         <item>color</item>
+        <item>one_ui</item>
         <item>game</item>
         <item>correspondence</item>
         <item>audiovisual</item>
@@ -199,6 +201,41 @@
         <item>color_music</item>
      
      </string-array>
+     
+     <string-array name="one_ui">
+        <item>sec_contacts</item>
+        <item>sec_clock</item>
+        <item>sec_finder</item>
+        <item>sec_store</item>
+        <item>sec_theme</item>
+        <item>sec_wear</item>
+        <item>sec_game</item>
+        <item>sec_game_plugins</item>
+        <item>sec_good_lock</item>
+        <item>sec_good_guardians</item>
+        <item>my_files</item>
+        <item>one_hand_operation</item>
+        <item>sec_phone</item>
+        <item>sec_fm</item>
+        <item>sec_reminder</item>
+        <item>sec_internet</item>
+        <item>sec_members</item>
+        <item>sec_health</item>
+        <item>sec_notes</item>
+        <item>sound_assistant</item>
+        <item>sec_theme_park</item>
+        <item>sec_tips</item>
+        <item>voice_recorder</item>
+        <item>sec_weather</item>
+        <item>sec_messages</item>
+        
+        <item>mono</item>
+        <item>game_launcher</item>
+        <item>videos</item>
+        <item>secure_folder</item>
+        <item>ar_zone</item>
+        <item>videos</item>
+     </string-array>
     
     <string-array name="game">
         <item>happyelements</item>
@@ -211,6 +248,9 @@
         <item>game_arknights</item>
         <item>sky</item>
         <item>lolm</item>
+        <item>qq_che</item>
+        <item>pubg_mhd</item>
+        <item>cfm</item>
         
     </string-array>
     
@@ -905,6 +945,75 @@
         <item>oneplus_bbs</item>
         <item>color_read</item>
         <item>color_music</item>
+        
+        <item>sec_contacts</item>
+        <item>sec_clock</item>
+        <item>sec_finder</item>
+        <item>sec_store</item>
+        <item>sec_theme</item>
+        <item>sec_wear</item>
+        <item>sec_game</item>
+        <item>sec_game_plugins</item>
+        <item>sec_good_lock</item>
+        <item>sec_good_guardians</item>
+        <item>my_files</item>
+        <item>one_hand_operation</item>
+        <item>sec_phone</item>
+        <item>sec_fm</item>
+        <item>sec_reminder</item>
+        <item>sec_internet</item>
+        <item>sec_members</item>
+        <item>sec_health</item>
+        <item>sec_notes</item>
+        <item>sound_assistant</item>
+        <item>sec_theme_park</item>
+        <item>sec_tips</item>
+        <item>voice_recorder</item>
+        <item>sec_weather</item>
+        <item>sec_messages</item>
+        
+        <item>google_camera</item>
+        <item>steam</item>
+        <item>qt_sns</item>
+        <item>meide_jiaju</item>
+        <item>gaoji_tiaojie</item>
+        <item>qq_che</item>
+        <item>pubg_mhd</item>
+        <item>cfm</item>
+        
+        <item>meide_jiaju</item>
+        <item>gaoji_tiaojie</item>
+        <item>mjxq</item>
+        <item>hlzh</item>
+        <item>baidu_carlife</item>
+        <item>didi</item>
+        <item>jjwxc</item>
+        <item>xclx</item>
+        <item>sogou_inputmethod</item>
+        <item>tclx</item>
+        <item>qunar</item>
+        <item>jiaoguan</item>
+        <item>ximalaya</item>
+        <item>vsco</item>
+        <item>qq_music_lite</item>
+        
+        <item>mono</item>
+        <item>game_launcher</item>
+        <item>videos</item>
+        <item>secure_folder</item>
+        <item>ar_zone</item>
+        
+        <item>mi_jr</item>
+        <item>mi_wifi</item>
+        <item>mi_mico</item>
+        
+        <item>power_clean</item>
+        <item>thanox</item>
+        <item>m_browser</item>
+        <item>aide</item>
+        <item>yjsp</item>
+        <item>google_calendar</item>
+        
         
         
         
