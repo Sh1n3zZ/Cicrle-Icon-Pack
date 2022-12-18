@@ -1,10 +1,12 @@
 package dev.jahir.blueprint.ui.activities
 
 import android.content.Intent
+import android.app.Dialog
 import android.os.Build
 import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
+import android.widget.Toast;
 import androidx.appcompat.app.AlertDialog
 import androidx.fragment.app.Fragment
 import com.fondesa.kpermissions.PermissionStatus
@@ -198,6 +200,18 @@ abstract class BlueprintActivity : FramesActivity(), RequestCallback {
             R.id.about -> {
                 shouldCallSuper = false
                 startActivity(Intent(this, BlueprintAboutActivity::class.java))
+            }
+            R.id.updata -> {
+                
+                showRequestDialog {
+                  title("正在维护")
+                  message("具体维护完成时间，请关注后续公告.")
+                  
+                }
+            
+                
+                
+                
             }
         }
         return if (shouldCallSuper) super.onOptionsItemSelected(item) else true

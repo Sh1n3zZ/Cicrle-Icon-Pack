@@ -53,6 +53,13 @@
             android:name=".ui.activities.BlueprintAboutActivity"
             android:exported="false"
             android:label="@string/about" />
+            
+        <activity
+            android:name=".ui.activities.chenupdata"
+            android:exported="false"
+            android:label="updata" />
+            
+            
 
     </application>
 

@@ -3,5 +3,5 @@
 object Blueprint {
     const val appId = "com.chen.ChongYuan.app"
     const val version = 230
-    const val versionName = "1.0.2"
+    const val versionName = "1.0.3"
 }

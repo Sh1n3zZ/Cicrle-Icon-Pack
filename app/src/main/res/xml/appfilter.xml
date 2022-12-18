@@ -677,7 +677,7 @@
         <!-- 中国建设银行 -->
 	<item
 		component="ComponentInfo{com.chinamworld.main/com.ccb.start.MainActivity}"
-		drawable="jianshe"/>
+		drawable="ccb"/>
         <!-- 云课堂智慧职教 -->
 	<item
 		component="ComponentInfo{com.zjy.ykt/com.zjy.ykt.SplashActivity}"
@@ -2312,6 +2312,144 @@
 		component="ComponentInfo{com.mukapp.genshintool/com.androlua.Welcome}"
 		drawable="yjsp"/>
         
+        <!-- 中国银行 -->
+	<item
+		component="ComponentInfo{com.chinamworld.bocmbci/com.boc.bocsoft.mobile.bocmobile.buss.system.splash.SplashActivity}"
+		drawable="zhonghang"/>
+        
+        <!-- Microsoft Office -->
+	<item
+		component="ComponentInfo{com.microsoft.office.officehub/com.microsoft.office.officesuite.OfficeSuiteActivity}"
+		drawable="microsoft_office"/>
+        
+        <!-- MissLee -->
+	<item
+		component="ComponentInfo{cn.litiaotiao.app/com.litiaotiao.app.LauncherActivity}"
+		drawable="miss_lee"/>
+        
+        <!-- AndroidIDE -->
+	<item
+		component="ComponentInfo{com.itsaky.androidide/com.itsaky.androidide.MainActivity}"
+		drawable="androidide"/>
+        
+        <!-- 网易灵犀办公 -->
+	<item
+		component="ComponentInfo{com.netease.enterprise.work/com.netease.android.flamingo.EntryActivity}"
+		drawable="netease_mail_work"/>
+        
+        <!-- QAuxiliary -->
+	<item
+		component="ComponentInfo{io.github.qauxv/io.github.qauxv.activity.ConfigV2ActivityAlias}"
+		drawable="qauxiliary"/>
+        
+        <!-- MiuiHomeR -->
+	<item
+		component="ComponentInfo{com.yuk.miuiHomeR/com.yuk.miuiHomeR.ui.MainActivityAlias}"
+		drawable="miuihomer"/>
+        
+    	<!-- MIUI遮罩进化 -->
+	<item
+		component="ComponentInfo{com.gswxxn.restoresplashscreen/com.gswxxn.restoresplashscreen.Home}"
+		drawable="miui_zhezhao"/>
+        
+        <!-- WooBox For MIUI -->
+	<item
+		component="ComponentInfo{com.lt2333.simplicitytools/com.lt2333.simplicitytools.launcher}"
+		drawable="woobox"/>
+        
+        <!-- 小米移动 -->
+	<item
+		component="ComponentInfo{com.xiaomi.mimobile/com.xiaomi.mimobile.activity.ActivateGuideActivity}"
+		drawable="mi_mobile"/>
+        
+        <!-- Clash Of Clans -->
+	<item
+		component="ComponentInfo{com.supercell.clashofclans/com.supercell.titan.GameApp}"
+		drawable="clash"/>
+        
+        <!-- DevCheck -->
+	<item
+		component="ComponentInfo{flar2.devcheck/flar2.devcheck.SplashActivity}"
+		drawable="dev_check"/>
+        
+    	<!-- AndPods -->
+	<item
+		component="ComponentInfo{cn.xiaolongonly.andpodsop/cn.xiaolongonly.andpodsop.activity.SplashActivity}"
+		drawable="andpods"/>
+        
+    	<!-- 555电影 -->
+	<item
+		component="ComponentInfo{com.qiqi.hhvideo/com.qiqi.hhvideo.ui.MainActivity}"
+		drawable="a_555video"/>
+        
+    	<!-- Mi Band 6 Watch Faces -->
+	<item
+		component="ComponentInfo{asn.ark.miband6/asn.ark.miband6.activites.SplashScreen}"
+		drawable="mi_band_6_watch_faces"/>
+        
+        <!-- Snapmod -->
+	<item
+		component="ComponentInfo{cn.gavinliu.snapmod/cn.gavinliu.snapmod.ui.SplashActivity}"
+		drawable="snapmod"/>
+        
+        <!-- MissLee -->
+	<item
+		component="ComponentInfo{cn.litiaotiao.app/com.litiaotiao.app.LauncherActivity}"
+		drawable="misslee"/>
+        
+    	<!-- CPU X -->
+	<item
+		component="ComponentInfo{com.abs.cpu_z_advance/com.abs.cpu_z_advance.MainActivity}"
+		drawable="cpu_x"/>
+        
+        <!-- ViLin -->
+	<item
+		component="ComponentInfo{com.cmcc.android.ysx/com.cmcc.android.ysx.activity.WelcomeActivity}"
+		drawable="vilin"/>
+        
+        <!-- 数字尾巴 -->
+	<item
+		component="ComponentInfo{com.funinput.digit/com.funinput.digit.activity.MainActivity}"
+		drawable="szwb"/>
+        
+    	<!-- Mobile Office -->
+	<item
+		component="ComponentInfo{com.seeyon.cmp/com.seeyon.cmp.ui.LoadActivity}"
+		drawable="mobile_office"/>
+        
+    	<!-- Cuto -->
+	<item
+		component="ComponentInfo{com.sspai.cuto.android/net.dchdc.cuto.ui.main.SplashActivity}"
+		drawable="cuto"/>
+        
+        <!-- Clash Of Clans -->
+	<item
+		component="ComponentInfo{com.supercell.clashofclans/com.supercell.titan.GameApp}"
+		drawable="clash_of_clans"/>
+        
+        <!-- Vapeam -->
+	<item
+		component="ComponentInfo{com.vapeam.vp/com.vapeam_flutter.MainActivity}"
+		drawable="vapeam"/>
+        
+        <!-- SubtitleKiller -->
+	<item
+		component="ComponentInfo{xyz.yingshaoxo.android.subtitlekiller/xyz.yingshaoxo.android.subtitlekiller.MainActivity}"
+		drawable="subtitlekiller"/>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
 
         
@@ -2399,6 +2537,11 @@
 	<item
 		component="ComponentInfo{com.tencent.tmgp.cf/com.tencent.tmgp.cf.AFMainActivity}"
 		drawable="cfm"/>
+        
+    	<!-- Brawl Stars -->
+	<item
+		component="ComponentInfo{com.tencent.tmgp.supercell.brawlstars/com.supercell.titan.tencent.GameAppTencent}"
+		drawable="brawl_stars"/>
         
         
         
@@ -2661,6 +2804,16 @@
 		component="ComponentInfo{com.meizu.flyme.flymebbs/com.meizu.myplus.ui.splash.SplashActivity}"
 		drawable="flymebbs"/>
         
+        <!-- AR 尺子 -->
+	<item
+		component="ComponentInfo{com.meizu.measure/com.meizu.measure.activity.ARCoreActivity}"
+		drawable="ar_rule"/>
+
+    	<!-- Multi System Toolbox -->
+	<item
+		component="ComponentInfo{com.example.ourom/com.example.ourom.activity.KiDouActivity}"
+		drawable="multi_system_toolbox"/>
+        
         
         
         
@@ -2712,6 +2865,16 @@
 	<item
 		component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
 		drawable="google_calendar"/>
+        
+     	<!-- Calendar -->
+	<item
+		component="ComponentInfo{com.samsung.android.calendar/com.samsung.android.app.calendar.activity.MainActivity}"
+		drawable="calendar"/>
+        
+        <!-- Calendar -->
+	<item
+		component="ComponentInfo{com.android.calendar/com.meizu.flyme.calendar.AllInOneActivity}"
+		drawable="calendar"/>
         
     
 
@@ -2977,7 +3140,7 @@
 		component="ComponentInfo{com.samsung.android.app.contacts/com.samsung.android.contacts.contactslist.PeopleActivity}"
 		drawable="sec_contacts"/>
 
-	<!-- Clock -->
+    	<!-- Clock -->
 	<item
 		component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage}"
 		drawable="sec_clock"/>
@@ -2987,7 +3150,7 @@
 		component="ComponentInfo{com.samsung.android.app.galaxyfinder/com.samsung.android.app.galaxyfinder.GalaxyFinderMainLauncher}"
 		drawable="sec_finder"/>
 
-	<!-- Galaxy Store -->
+    	<!-- Galaxy Store -->
 	<item
 		component="ComponentInfo{com.sec.android.app.samsungapps/com.sec.android.app.samsungapps.SamsungAppsMainActivity}"
 		drawable="sec_store"/>
@@ -2997,7 +3160,7 @@
 		component="ComponentInfo{com.samsung.android.themestore/com.samsung.android.themestore.activity.Launcher}"
 		drawable="sec_theme"/>
 
-	<!-- Galaxy Wearable -->
+    	<!-- Galaxy Wearable -->
 	<item
 		component="ComponentInfo{com.samsung.android.app.watchmanager/com.samsung.android.app.watchmanager.setupwizard.SetupWizardWelcomeActivity}"
 		drawable="sec_wear"/>
@@ -3007,7 +3170,7 @@
 		component="ComponentInfo{com.sec.android.gallery3d/com.samsung.android.gallery.app.activity.GalleryActivity}"
 		drawable="gallery"/>
 
-	<!-- Game Launcher -->
+    	<!-- Game Launcher -->
 	<item
 		component="ComponentInfo{com.samsung.android.game.gamehome/com.samsung.android.game.gamehome.activity.StartActivity}"
 		drawable="sec_game"/>
@@ -3057,7 +3220,7 @@
 		component="ComponentInfo{com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity}"
 		drawable="sec_internet"/>
         
-        	<!-- Samsung Members -->
+    	<!-- Samsung Members -->
 	<item
 		component="ComponentInfo{com.samsung.android.voc/com.samsung.android.voc.LauncherActivity}"
 		drawable="sec_members"/>
@@ -3142,7 +3305,36 @@
 		component="ComponentInfo{com.samsung.android.arzone/com.samsung.android.arzone.ARZoneLauncher}"
 		drawable="ar_zone"/>
         
+        <!-- Email -->
+	<item
+		component="ComponentInfo{com.samsung.android.email.provider/com.samsung.android.email.ui.activity.MessageListXL}"
+		drawable="mail"/>
         
+    	<!-- SIM Toolkit -->
+	<item
+		component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity}"
+		drawable="sec_sim_toolkit"/>
+        
+    	<!-- Bixby Voice -->
+    <item
+		component="ComponentInfo{com.samsung.android.bixby.agent/com.samsung.android.bixby.assistanthome.AssistantHomeLauncherActivity}"
+		drawable="bixby_voice"/>
+        
+        <!-- Camera Assistant -->
+	<item
+		component="ComponentInfo{com.samsung.android.app.cameraassistant/com.samsung.android.app.cameraassistant.MainActivity}"
+		drawable="camera_assistant"/>
+        
+        <!-- Samsung Wallet -->
+	<item
+		component="ComponentInfo{com.samsung.android.spay/com.samsung.android.spay.ui.SpayMainActivity}"
+		drawable="samsung_wallet"/>
+        
+    	<!-- Samsung Members -->
+	<item
+		component="ComponentInfo{com.samsung.android.voc/com.samsung.android.voc.app.LauncherActivity}"
+		drawable="samsung_members"/>
+    
         
         
         

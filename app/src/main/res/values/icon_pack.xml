@@ -235,6 +235,10 @@
         <item>secure_folder</item>
         <item>ar_zone</item>
         <item>videos</item>
+        
+        <item>mail</item>
+        <item>sec_sim_toolkit</item>
+        
      </string-array>
     
     <string-array name="game">
@@ -251,6 +255,7 @@
         <item>qq_che</item>
         <item>pubg_mhd</item>
         <item>cfm</item>
+        <item>brawl_stars</item>
         
     </string-array>
     
@@ -1014,6 +1019,41 @@
         <item>yjsp</item>
         <item>google_calendar</item>
         
+        <item>microsoft_office</item>
+        <item>androidide</item>
+        <item>netease_mail_work</item>
+        <item>qauxiliary</item>
+        <item>miuihomer</item>
+        <item>miui_zhezhao</item>
+        <item>woobox</item>
+        <item>mi_mobile</item>
+        
+        <item>mail</item>
+        <item>sec_sim_toolkit</item>
+        
+        <item>brawl_stars</item>
+        <item>andpods</item>
+        <item>a_555video</item>
+        <item>mi_band_6_watch_faces</item>
+        <item>snapmod</item>
+        <item>misslee</item>
+        <item>cpu_x</item>
+        <item>vilin</item>
+        <item>szwb</item>
+        <item>mobile_office</item>
+        <item>cuto</item>
+        <item>clash_of_clans</item>
+        <item>vapeam</item>
+        <item>subtitlekiller</item>
+        <item>bixby_voice2</item>
+        
+        <item>ar_rule</item>
+        <item>multi_system_toolbox</item>
+        
+        <item>bixby_voice</item>
+        <item>camera_assistant</item>
+        <item>samsung_wallet</item>
+        <item>samsung_members</item>
         
         
         

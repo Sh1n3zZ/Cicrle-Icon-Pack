@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <version title="1.0.2" />
-    <item text="(1） 尝试修复One Plus、OPPO、realme日历📆问题." />
-    <item text="(2)  尝试修复部分应用未适配成功的问题." />
-    <item text="(3)  适配一部分图标(约20多个)(Thanox、M_browser、Aide、Google_calendar等)." />
+    <version title="1.0.3" />
+    <item text="(1） 尝试修复Flyme日历📆问题." />
+    <item text="(2)  内置Updata入口，后续或将支持内部Updata(入口暂不开放，问题较多)." />
+    <item text="(3)  适配一部分图标(约20多个)." />
     <item text="(4)  修复Coolapk用户反馈的部分问题." /> 
-    <item text="(5)  修复Google日历未适配成功问题."/>
+    <item text="(5)  适配了三星、魅族小部分图标."/>
     <item text="适配量:600+ (应该算是个惊喜吧!)"/>
     <!-- this one is empty and therefore ignored -->
 </resources>

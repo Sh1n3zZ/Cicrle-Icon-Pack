@@ -59,5 +59,14 @@
         android:title="@string/settings"
         app:showAsAction="never" />
         
+    <item
+        android:id="@+id/updata"
+        android:icon="@drawable/ic_settings"
+        android:orderInCategory="800"
+        android:title="updata"
+        app:showAsAction="never" />
+        
+        
+        
 
 </menu>
