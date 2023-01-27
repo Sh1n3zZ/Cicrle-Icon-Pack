@@ -4,34 +4,29 @@
         <item>https://sh1n3zz-1301864135.cos.ap-guangzhou.myqcloud.com/uploads/2022/10/04/70e0EzWt_-2f1158d4f9be78b9.jpg</item>
         <item>https://sh1n3zz-1301864135.cos.ap-guangzhou.myqcloud.com/uploads/2022/10/04/NwQunADi_-248cd02eebcddc73.jpg</item>
         <item>https://sh1n3zz-1301864135.cos.ap-guangzhou.myqcloud.com/uploads/2022/10/30/z4EFoGO5_0bdb0f4ab6d7a8ec8b1d1b23487bc738.jpeg</item>
-        <item>https://sh1n3zz-1301864135.cos.ap-guangzhou.myqcloud.com/uploads/2022/10/10/LSQdkFy1_IMG_20221009_205248.jpg</item>
     </string-array>
 
     <string-array name="credits_titles">
         <item>ChenJ</item>
         <item>Guo Dong</item>
         <item>Sh1n3zZ</item>
-        <item>Offer Support</item>
     </string-array>
 
     <string-array name="credits_descriptions">
         <item>develop</item>
         <item>art</item>
-        <item>upload to Google play、cloud services</item>
-        <item>help</item>
+        <item>Upload to Google play、cloud services</item>
     </string-array>
 
     <string-array name="credits_buttons">
         <item>酷安 Coolapk|Github</item>
         <item>酷安 Coolapk</item>
         <item>酷安 Coolapk|Github</item>
-        <item>感谢名单</item>
     </string-array>
 
     <string-array name="credits_links">
         <item>http://www.coolapk.com/u/3736924|https://github.com/wkshl</item>
         <item>http://www.coolapk.com/u/1032987</item>
         <item>http://www.coolapk.com/u/21623507|https://GitHub.com/Sh1n3zZ</item>
-        <item>https://wkshl.github.io/2022/10/10/重圆-IconPack-感谢名单/</item>
     </string-array>
 </resources>

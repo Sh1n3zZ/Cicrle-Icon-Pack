@@ -5,29 +5,19 @@
     
     <string-array name="icons_preview">
        
-        <item>gmail</item>
-        <item>google_play_store</item>
-        <item>chrome</item>
-        <item>wear_os_by_google</item>
-        <item>maps</item>
-        <item>files_by_google</item>
-        <item>google_one</item>
-        <item>google_podcasts</item>
-        <item>google</item>
-        <item>find_my_device</item>
-        <item>google_play_games</item>
-        <item>lens</item>
-        <item>google_photos</item>
-        <item>google_phone</item>
-        <item>calculator_through</item>
-        <item>flyme_camera</item>
-        <item>flyme_clock</item>
-        <item>miui_contacts_and_dialer</item>
+        <item>color_app_market</item>
+        <item>miui_settings</item>
+        <item>miui_tonghua</item>
+        <item>bili_bili</item>
+        <item>wechat_wk</item>
+        <item>androidide</item>
+        <item>calendar</item>
+        <item>sec_members</item>
+        <item>xbrowser</item>
+        <item>xk_video_wallpaer</item>
         <item>flyme_messages</item>
-        <item>flyme_settings</item>
-        <item>google_camera</item>
-        
-        <item>genshin1</item>
+
+        <item>soul_knight</item>
         
         
         
@@ -41,14 +31,8 @@
 
     <!-- Make sure the filters names are the same as the other arrays -->
     <string-array name="icon_filters">
-        <item>android_aosp_google</item>
-        <item>flyme</item>
-        <item>miui</item>
-        <item>color</item>
-        <item>one_ui</item>
+        <item>system_icon</item>
         <item>game</item>
-        <item>correspondence</item>
-        <item>audiovisual</item>
         <item>shortcut</item>
         <item>all</item>
         
@@ -56,23 +40,8 @@
 
     
     
-    <string-array name="android_aosp_google">
-    
-        <item>gmail</item>
-        <item>google_play_store</item>
-        <item>chrome</item>
-        <item>wear_os_by_google</item>
-        <item>maps</item>
-        <item>files_by_google</item>
-        <item>google_one</item>
-        <item>google_podcasts</item>
-        <item>google</item>
-        <item>find_my_device</item>
-        <item>google_play_games</item>
-        <item>lens</item>
-        <item>google_photos</item>
-        <item>google_phone</item>
-        <item>calculator_through</item>
+    <string-array name="system_icon">
+
         <item>flyme_camera</item>
         <item>flyme_clock</item>
         <item>miui_contacts_and_dialer</item>
@@ -83,11 +52,7 @@
         <item>game_space</item>
         
         <item>miui_fm</item>
-        
-    </string-array>
-    
-     <string-array name="flyme">
-     
+
         <item>flyme_app_store</item>
         <item>flyme_camera</item>
         <item>flyme_clock</item>
@@ -121,15 +86,11 @@
         <item>celendar_d3</item>
         <item>celendar_d4</item>
         <item>celendar_d5</item>
-        
+
         <item>flyme_logreport</item>
         <item>flymebbs</item>
         <item>flyme_store</item>
-        
-    </string-array>
-    
-    <string-array name="miui">
-    
+
         <item>xiaomi_game</item>
         <item>miui_browser</item>
         <item>miui_calculator</item>
@@ -167,12 +128,7 @@
         <item>xiaomi_tv</item>
         <item>xiaomi_bbs1</item>
         <item>miui_fm</item>
-        
-        
-    </string-array>
-    
-     <string-array name="color">
-     
+
         <item>color_app_market</item>
         <item>breeno</item>
         <item>breeno_shortcuts</item>
@@ -199,10 +155,7 @@
         <item>oneplus_bbs</item>
         <item>color_read</item>
         <item>color_music</item>
-     
-     </string-array>
-     
-     <string-array name="one_ui">
+
         <item>sec_contacts</item>
         <item>sec_clock</item>
         <item>sec_finder</item>
@@ -228,18 +181,22 @@
         <item>voice_recorder</item>
         <item>sec_weather</item>
         <item>sec_messages</item>
-        
+
         <item>mono</item>
         <item>game_launcher</item>
         <item>videos</item>
         <item>secure_folder</item>
         <item>ar_zone</item>
         <item>videos</item>
-        
+
         <item>mail</item>
         <item>sec_sim_toolkit</item>
-        
-     </string-array>
+
+
+    </string-array>
+
+    
+
     
     <string-array name="game">
         <item>happyelements</item>
@@ -256,58 +213,10 @@
         <item>pubg_mhd</item>
         <item>cfm</item>
         <item>brawl_stars</item>
+        <item>soul_knight</item>
         
     </string-array>
-    
-    <string-array name="correspondence">
-        <item>tencent_weixin</item>
-        <item>coolapk</item>
-        <item>weibo</item>
-        <item>mihoyo_bbs</item>
-        <item>rimet_dingding</item>
-        <item>telegram</item>
-        <item>red_book</item>
-        <item>zhi_hu</item>
-        <item>tencent_qq</item>
-        <item>nekogram_x</item>
-        <item>twitter</item>
-        <item>blued</item>
-        <item>wechat_wk</item>
-        <item>tim</item>
-        
-    </string-array>
-    
-    
-    <string-array name="audiovisual">
-        <item>qq_music</item>
-        <item>bili_bili</item>
-        <item>wang_yi_yun_music</item>
-        <item>douyin</item>
-        <item>twitter</item>
-        <item>apple_music</item>
-        <item>youku</item>
-        <item>kuaishou_lite</item>
-        <item>article_lite</item>
-        <item>bilibili_hd</item>
-        <item>toutiao</item>
-        <item>iqiyi</item>
-        <item>kugou</item>
-        <item>netease_news</item>
-        <item>kuwo_music</item>
-        <item>huya_tv</item>
-        <item>migu_music</item>
-        <item>douyu_tv</item>
-        <item>mangguo_tv</item>
-        <item>kugou_lite</item>
-        <item>net_ease_snailread</item>
-        <item>douyin_lite</item>
-        <item>netease_music_lite</item>
-        
-        
-        
-        
-        
-    </string-array>
+
     
     
     <string-array name="shortcut">
@@ -1054,8 +963,36 @@
         <item>camera_assistant</item>
         <item>samsung_wallet</item>
         <item>samsung_members</item>
-        
-        
+
+        <item>lawnchair</item>
+        <item>activate_with_shizuku</item>
+        <item>burn</item>
+        <item>microsoft_chair</item>
+        <item>nodevideo</item>
+        <item>statusbar_lyric</item>
+        <item>tsbattery</item>
+        <item>mi_freeform</item>
+        <item>live2dviewerex</item>
+        <item>qt_qtl</item>
+        <item>dogal</item>
+        <item>bmck</item>
+        <item>douyu_tv</item>
+        <item>chonghui</item>
+        <item>xzjhz</item>
+        <item>phone_probe</item>
+        <item>nekogram</item>
+        <item>happycast</item>
+        <item>adm</item>
+        <item>soul_knight</item>
+        <item>smartisan_notes</item>
+
+        <item>contacts</item>
+        <item>gamecenter</item>
+        <item>afamily</item>
+        <item>quick_game</item>
+        <item>sim_toolkit</item>
+        <item>smart_home</item>
+        <item>wallet</item>
         
         
         

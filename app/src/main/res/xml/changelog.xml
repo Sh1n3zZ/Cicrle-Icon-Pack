@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <version title="1.0.3" />
-    <item text="(1） 尝试修复Flyme日历📆问题." />
-    <item text="(2)  内置Updata入口，后续或将支持内部Updata(入口暂不开放，问题较多)." />
-    <item text="(3)  适配一部分图标(约20多个)." />
-    <item text="(4)  修复Coolapk用户反馈的部分问题." /> 
-    <item text="(5)  适配了三星、魅族小部分图标."/>
-    <item text="适配量:600+ (应该算是个惊喜吧!)"/>
+    <version title="1.0.4 Aggregated" />
+    <item text="查看具体更新内容日志请前往：" />
+    <item text="bbs.canteam.cn/forum/44.html" />
+
     <!-- this one is empty and therefore ignored -->
 </resources>

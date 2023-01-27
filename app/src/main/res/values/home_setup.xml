@@ -31,18 +31,18 @@
 
     <!-- These arrays are for the list of apps or links in main section. -->
     <string-array name="home_list_titles">
-        <item></item>
-        <item></item>
+        <item>1111</item>
+        <item>Google Play上查看动态？</item>
         <item></item>
     </string-array>
     <string-array name="home_list_descriptions">
-        <item></item>
-        <item></item>
+        <item>1111111</item>
+        <item>Google Play上查看实时动态？</item>
         <item></item>
     </string-array>
     <string-array name="home_list_icons">
-        <item></item>
-        <item></item>
+        <item>google_play_store</item>
+        <item>google_play_store</item>
         <item></item>
     </string-array>
     <string-array name="home_list_links">

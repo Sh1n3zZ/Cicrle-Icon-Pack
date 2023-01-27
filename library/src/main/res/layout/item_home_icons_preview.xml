@@ -14,10 +14,13 @@
     app:cardPreventCornerOverlap="false"
     app:shapeAppearanceOverlay="@style/ShapeAppearance.Blueprint.IconsPreview">
 
+
+
+
     <com.google.android.material.imageview.ShapeableImageView
         android:id="@+id/wallpaper"
         android:layout_width="match_parent"
-        android:layout_height="228dp"
+        android:layout_height="190dp"
         android:layout_gravity="center"
         android:clickable="false"
         android:focusable="false"
@@ -36,5 +39,12 @@
         android:focusable="false"
         android:padding="16dp"
         android:visibility="gone" />
+
+
+
+
+
+
+
 
 </com.google.android.material.card.MaterialCardView>
