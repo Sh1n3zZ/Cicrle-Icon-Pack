@@ -20,7 +20,7 @@
         True, means yes.
         False, means no.
     -->
-    <bool name="show_quick_apply_text">False</bool>
+    <bool name="show_quick_apply_text">true</bool>
 
     <!--
         Set a custom text to the quick apply button.
@@ -31,23 +31,19 @@
 
     <!-- These arrays are for the list of apps or links in main section. -->
     <string-array name="home_list_titles">
-        <item>1111</item>
-        <item>Google Play上查看动态？</item>
+        <item>去 Google Play 看看</item>
         <item></item>
     </string-array>
     <string-array name="home_list_descriptions">
-        <item>1111111</item>
-        <item>Google Play上查看实时动态？</item>
+        <item>reCircle</item>
         <item></item>
     </string-array>
     <string-array name="home_list_icons">
         <item>google_play_store</item>
-        <item>google_play_store</item>
         <item></item>
     </string-array>
     <string-array name="home_list_links">
-        <item>https://github.com/jahirfiquitiva/Blueprint</item>
-        <item>https://play.google.com/store/apps/details?id=com.android.settings</item>
-        <item>market://details?id=com.example.package</item>
+        <item>https://palay.google.com/store/apps/details?id=com.chen.ChongYuan.app</item>
+        <item></item>
     </string-array>
 </resources>

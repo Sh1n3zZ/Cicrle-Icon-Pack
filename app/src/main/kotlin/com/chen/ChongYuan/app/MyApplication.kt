@@ -1,4 +1,4 @@
-package dev.jahir.blueprint.app
+package com.chen.ChongYuan.app
 
 import dev.jahir.frames.ui.FramesApplication
 

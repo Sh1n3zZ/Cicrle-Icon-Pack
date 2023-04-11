@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,ExtraTranslation">
-    <string name="home">Home</string>
-    <string name="icons">Icons</string>
+    <string name="home">家族</string>
+    <string name="icons">アイコン</string>
     <string name="request">リクエスト</string>
-    <string name="overview">概要</string>
+    <string name="overview">ラップアラウンド</string>
     <string name="more_apps">他のアプリ</string>
     <string name="useful_links">リンク</string>
     <string name="select_all">すべて選択</string>
@@ -25,10 +25,10 @@
     <string name="kustom_templates">Kustom のテンプレート</string>
     <string name="zooper_templates">Zooperのテンプレート</string>
     <string name="rate">評価する</string>
-    <string name="share">共有</string>
+    <string name="share">共通して</string>
     <string name="share_text">Google Playで %1$s をダウンロード: %2$s.</string>
     <string name="send_email">メール送信</string>
-    <string name="send_using">送信:</string>
+    <string name="send_using">メッセンジャー:</string>
     <string name="request_in_progress">リクエストを送信中</string>
     <string name="request_in_progress_content">リクエストは既に送信されています。</string>
     <string name="building_request_dialog">リクエストを準備しています...</string>

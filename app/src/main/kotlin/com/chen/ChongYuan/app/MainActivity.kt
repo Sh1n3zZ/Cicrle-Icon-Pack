@@ -1,4 +1,4 @@
-package dev.jahir.blueprint.app
+package com.chen.ChongYuan.app
 
 import com.github.javiersantos.piracychecker.PiracyChecker
 import dev.jahir.blueprint.ui.activities.BottomNavigationBlueprintActivity

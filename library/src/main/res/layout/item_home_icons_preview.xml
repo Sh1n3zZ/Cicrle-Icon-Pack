@@ -15,34 +15,85 @@
     app:shapeAppearanceOverlay="@style/ShapeAppearance.Blueprint.IconsPreview">
 
 
-
-
-    <com.google.android.material.imageview.ShapeableImageView
-        android:id="@+id/wallpaper"
-        android:layout_width="match_parent"
-        android:layout_height="190dp"
-        android:layout_gravity="center"
-        android:clickable="false"
-        android:focusable="false"
-        android:scaleType="centerCrop"
-        app:shapeAppearanceOverlay="@style/ShapeAppearance.Blueprint.IconsPreview"
-        tools:ignore="ContentDescription" />
-
-    <dev.jahir.blueprint.ui.widgets.IconsPreviewRecyclerView
-        android:id="@+id/icons_preview_grid"
+    <com.google.android.material.card.MaterialCardView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal|bottom"
-        android:clickable="false"
-        android:clipChildren="false"
-        android:clipToPadding="false"
-        android:focusable="false"
-        android:padding="16dp"
-        android:visibility="gone" />
+        android:layout_margin="15dp"
+        android:background="@color/primary"
+        app:cardElevation="0dp"
+        app:cardCornerRadius="20dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/m3_snackbarBackgroundColor"
+                app:cardElevation="0dp"
+                app:cardCornerRadius="20dp">
+
+
+                <com.google.android.material.imageview.ShapeableImageView
+                    android:id="@+id/wallpaper"
+                    android:layout_width="match_parent"
+                    android:layout_height="190dp"
+                    android:layout_gravity="center"
+                    android:clickable="false"
+                    android:focusable="false"
+                    android:scaleType="centerCrop"
+                    app:shapeAppearanceOverlay="@style/ShapeAppearance.Blueprint.IconsPreview"
+                    tools:ignore="ContentDescription" />
+
+                <dev.jahir.blueprint.ui.widgets.IconsPreviewRecyclerView
+                    android:id="@+id/icons_preview_grid"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal|bottom"
+                    android:clickable="false"
+                    android:clipChildren="false"
+                    android:clipToPadding="false"
+                    android:focusable="false"
+                    android:padding="16dp"
+                    android:visibility="gone" />
+
+            </androidx.cardview.widget.CardView>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="15dp"
+                android:orientation="vertical">
+
+                <com.google.android.material.textview.MaterialTextView
+                    style="@style/TextStyle.Frames.Subtitle2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="0dp"
+                    android:text="reCircle Icon Pack"
+                    android:textColor="?colorSecondary"
+                    android:textSize="12sp" />
+
+                <com.google.android.material.textview.MaterialTextView
+                    style="@style/TextStyle.Frames.Subtitle2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Preview 预览"
+                    android:textColor="?colorSecondary"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
 
 
 
 
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </com.google.android.material.card.MaterialCardView>
 
 
 

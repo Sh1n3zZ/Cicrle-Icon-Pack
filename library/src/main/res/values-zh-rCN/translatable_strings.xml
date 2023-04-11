@@ -46,7 +46,7 @@
     <string name="days">天</string>
     <string name="weeks">周</string>
     <string name="months">月</string>
-    <string name="icon_shape">图标形状(已做限制调整后并无区别)</string>
+    <string name="icon_shape">图标形状</string>
     <string name="icon_shape_system">跟随系统设置</string>
     <string name="icon_shape_circle">圆形</string>
     <string name="icon_shape_squircle">方形</string>
@@ -56,7 +56,6 @@
     <string name="requests_upload_error">出错了。错误名称：“%1$s”。</string>
     <!-- HELP SECTION -->
     <string-array name="questions">
-        <item>图标包维护周期?</item>
         <item>如何使用图标包？</item>
         <item>如何应用图标包？</item>
         <item>如何查看所有包含的图标？</item>
@@ -73,7 +72,6 @@
         <item>为什么该应用程序需要保持设备唤醒状态的权限？</item>
     </string-array>
     <string-array name="answers">
-        <item>Cicrle图标包在中国(Coolapk、canwear)维护周期为1-2周一次</item>
         <item>你需要一个支持图标包的启动器。可以在本应用程序的 “应用图标” 页面中，或者 Play 商店的描述中找到受支持的启动器列表，</item>
         <item>根据应用程序的导航方式类型，你需要从左侧滑调出导航抽屉并前往 “应用图标” 页面，或者通过点击底部导航栏的第4个图标。在那里你可以选择一个启动器来应用图标包。一些启动器不支持自动应用图标包，因此你需要在那样的启动器设定中手动应用。</item>
         <item>回到本应用的主页并点击标题为 “图标” 的磁贴。</item>

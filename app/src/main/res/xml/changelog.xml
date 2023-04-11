@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <version title="1.0.4 Aggregated" />
+    <version title="1.0.7 Aggregated" />
     <item text="查看具体更新内容日志请前往：" />
-    <item text="bbs.canteam.cn/forum/44.html" />
+    <item text="bbs.canteam.cn" />
 
     <!-- this one is empty and therefore ignored -->
 </resources>

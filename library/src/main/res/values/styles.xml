@@ -74,8 +74,6 @@
         <item name="android:shadowRadius">1</item>
     </style>
 
-
-
     <style name="MyApp.Default" parent="Blueprint.Default" />
 
     <style name="MyApp.Default.Amoled" parent="Blueprint.Default.Amoled" />

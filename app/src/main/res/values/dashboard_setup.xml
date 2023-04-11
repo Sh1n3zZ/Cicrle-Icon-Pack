@@ -6,7 +6,7 @@
         Create a new drawable and put its name here (without extension)
         Note: it will only be shown in the main section
     -->
-    <string name="toolbar_logo"></string>
+    <string name="toolbar_logo">ture</string>
 
     <!--
     Do you want notifications to be enabled for all your users?
@@ -23,7 +23,7 @@
     <bool name="animations_enabled_by_default">true</bool>
 
     <!-- Privacy Policy link or url -->
-    <string name="privacy_policy_link">"https://sites.google.com/view/cicrleiconpack/"</string>
+    <string name="privacy_policy_link">"https://bbs.ccox.cn/forum-post/150.html"</string>
 
     <!-- Terms and Conditions link or url -->
     <string name="terms_conditions_link">""</string>
